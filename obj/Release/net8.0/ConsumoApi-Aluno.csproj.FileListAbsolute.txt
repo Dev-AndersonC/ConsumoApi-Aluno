@@ -1,0 +1,4 @@
+/home/andersonc/Dev/ConsumoApi-Aluno/obj/Release/net8.0/ConsumoApi-Aluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonc/Dev/ConsumoApi-Aluno/obj/Release/net8.0/ConsumoApi-Aluno.AssemblyInfoInputs.cache
+/home/andersonc/Dev/ConsumoApi-Aluno/obj/Release/net8.0/ConsumoApi-Aluno.AssemblyInfo.cs
+/home/andersonc/Dev/ConsumoApi-Aluno/obj/Release/net8.0/ConsumoApi-Aluno.csproj.CoreCompileInputs.cache
